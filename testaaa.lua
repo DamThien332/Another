@@ -1,3 +1,5 @@
+--wave sla q porra e essa
+
 if not game:IsLoaded() then
     game.Loaded:Wait()
 end
